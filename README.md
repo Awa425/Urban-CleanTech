@@ -1,4 +1,4 @@
-# 🗑️ WasteTrackDakar
+# 🗑️ Pastef Univercity
 
 > **GET 409 · Atelier IA · Master · Swiss UMEF University — Campus de Dakar · 2025-2026**
 
