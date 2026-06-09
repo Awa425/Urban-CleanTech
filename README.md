@@ -1,4 +1,5 @@
-# 🗑️ WasteTrackDakar
+## Nom Groupe : Pastef University
+## Nom Projet : Urban CleanTech
 
 > **GET 409 · Atelier IA · Master · Swiss UMEF University — Campus de Dakar · 2025-2026**
 
@@ -21,7 +22,7 @@ Les quartiers de Dakar sont régulièrement victimes de **dépôts sauvages de d
 | Mor | DIOUF | Chef de Produit (PM) | [@mordiouf](https://github.com/mordiouf) |
 | Souleymane | DIALLO | Master Prompt Engineer | [@souleymane-diallo](https://github.com/souleymane-diallo) |
 | Serigne Mor | DIAGNE | Dev UI (No-Code) | [@serignediagne](https://github.com/serignediagne) |
-| Awa | DIOP | Responsable Impact | [@awadiop](https://github.com/awadiop) |
+| Awa | DIOP | Responsable Impact | [@Awa425](https://github.com/Awa425) |
 
 ---
 

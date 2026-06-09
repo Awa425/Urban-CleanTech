@@ -1,16 +1,16 @@
-# Fiche équipe — GET409-WasteTrackDakar
+# Fiche équipe — GET409-Urban-CleanTech
 
 ## Identité de l'équipe
 
 | Champ | Valeur |
 |---|---|
-| **Nom de l'équipe** | WasteTrackDakar |
+| **Nom de l'équipe** | Urban-CleanTech |
 | **Cours** | GET 409 — Atelier IA |
 | **Université** | Swiss UMEF University — Campus de Dakar |
 | **Année** | 2025-2026 |
 | **Secteur cible** | Gestion des déchets urbains — Services municipaux (Dakar) |
-| **Dépôt GitHub** | [GET409-WasteTrackDakar](https://github.com/mordiouf/GET409-WasteTrackDakar) |
-| **Espace Dify** | GET409-WasteTrackDakar |
+| **Dépôt GitHub** | [GET409-Urban-CleanTech](https://github.com/Awa425/Urban-CleanTech) |
+| **Espace Dify** | GET409-Urban-CleanTech |
 
 ---
 
@@ -42,7 +42,7 @@ Les quartiers de Dakar subissent une accumulation de dépôts sauvages de déche
 - [x] Fiche équipe soumise sur e-Academy
 - [x] Énoncé HMW validé
 - [x] Carte d'empathie déposée sur e-Academy
-- [x] Dépôt GitHub `GET409-WasteTrackDakar` — README.md + tous les membres en collaborateurs
+- [x] Dépôt GitHub `GET409-Urban-CleanTech` — README.md + tous les membres en collaborateurs
 - [x] Compte Dify activé — espace de travail équipe créé sur [dify.ai](https://dify.ai)
 - [x] Commit GitHub avant minuit
 
